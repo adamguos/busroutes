@@ -1,0 +1,215 @@
+co,route,orig_tc,orig_en,dest_tc,dest_en,orig_sc,dest_sc,data_timestamp
+CTB,1,摩星嶺,Felix Villas,跑馬地 (上),Happy Valley (Upper),摩星岭,跑马地 (上),2020-05-22T05:00:02+08:00
+CTB,10,堅尼地城,Kennedy Town,北角碼頭,North Point Ferry Pier,坚尼地城,北角码头,2020-05-22T05:00:02+08:00
+CTB,102,筲箕灣,Shau Kei Wan,美孚,Mei Foo,筲箕湾,美孚,2020-05-22T05:00:02+08:00
+CTB,102P,筲箕灣,Shau Kei Wan,美孚,Mei Foo,筲箕湾,美孚,2020-05-22T05:00:02+08:00
+CTB,103,蒲飛路,Pokfield Road,竹園,Chuk Yuen,蒲飞路,竹园,2020-05-22T05:00:02+08:00
+CTB,103P,蒲飛路,Pokfield Road,旺角 (麥花臣遊樂場),Mong Kok (Macpherson Playground),蒲飞路,旺角 (麦花臣游乐场),2020-05-22T05:00:02+08:00
+CTB,107,華貴邨,Wah Kwai Estate,九龍灣,Kowloon Bay,华贵邨,九龙湾,2020-05-22T05:00:02+08:00
+CTB,107P,紅磡 (海逸豪園),Hung Hom (Laguna Verde),數碼港,Cyberport,红磡 (海逸豪园),数码港,2020-05-22T05:00:02+08:00
+CTB,11,中環碼頭,Central (Ferry Piers),渣甸山,Jardine's Lookout,中环码头,渣甸山,2020-05-22T05:00:02+08:00
+CTB,117,跑馬地 (下),Happy Valley (Lower),深水埗 (欽州街),Sham Shui Po (Yen Chow Street),跑马地 (下),深水埗 (钦州街),2020-05-22T05:00:02+08:00
+CTB,117R,香港大球場,Hong Kong Stadium,旺角 (經尖沙咀),Mong Kok (via Tsim Sha Tsui),香港大球场,旺角 (经尖沙咀),2020-05-22T05:00:02+08:00
+CTB,118,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),長沙灣 (深旺道),Cheung Sha Wan (Sham Mong Road),小西湾 (蓝湾半岛),长沙湾 (深旺道),2020-05-22T05:00:02+08:00
+CTB,118P,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),長沙灣 (深旺道),Cheung Sha Wan (Sham Mong Road),小西湾 (蓝湾半岛),长沙湾 (深旺道),2020-05-22T05:00:02+08:00
+CTB,12,中環碼頭,Central (Ferry Piers),羅便臣道,Robinson Road,中环码头,罗便臣道,2020-05-22T05:00:02+08:00
+CTB,12A,金鐘 (添馬街),Admiralty (Tamar Street),麥當勞道,MacDonnell Road,金钟 (添马街),麦当劳道,2020-05-22T05:00:02+08:00
+CTB,12M,金鐘 (添馬街),Admiralty (Tamar Street),柏道,Park Road,金钟 (添马街),柏道,2020-05-22T05:00:02+08:00
+CTB,170,華富 (中),Wah Fu (Central),沙田站,Sha Tin Station,华富 (中),沙田站,2020-05-22T05:00:02+08:00
+CTB,171,海怡半島,South Horizons,荔枝角,Lai Chi Kok,海怡半岛,荔枝角,2020-05-22T05:00:02+08:00
+CTB,171A,利東邨,Lei Tung Estate,荔枝角,Lai Chi Kok,利东邨,荔枝角,2020-05-22T05:00:02+08:00
+CTB,171P,海怡半島,South Horizons,荔枝角,Lai Chi Kok,海怡半岛,荔枝角,2020-05-22T05:00:02+08:00
+CTB,182,中環 (港澳碼頭),Central (Macau Ferry),沙田 (愉翠苑),Sha Tin (Yu Chui Court),中环 (港澳码头),沙田 (愉翠苑),2020-05-22T05:00:02+08:00
+CTB,182X,中環 (港澳碼頭),Central (Macau Ferry),沙田 (愉翠苑),Sha Tin (Yu Chui Court),中环 (港澳码头),沙田 (愉翠苑),2020-05-22T05:00:02+08:00
+CTB,19,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),跑馬地 (上),Happy Valley (Upper),小西湾 (蓝湾半岛),跑马地 (上),2020-05-22T05:00:02+08:00
+CTB,19P,筲箕灣,Shau Kei Wan,跑馬地 (上),Happy Valley (Upper),筲箕湾,跑马地 (上),2020-05-22T05:00:02+08:00
+CTB,1P,黃泥涌道 (樂活道),Wong Nai Chung Road (Broadwood Road),中環,Central,黄泥涌道 (乐活道),中环,2020-05-22T05:00:02+08:00
+CTB,20,啟德 (沐寧街),Kai Tak (Muk Ning Street),大角咀 (維港灣),Tai Kok Tsui (Island Harbourview),启德 (沐宁街),大角咀 (维港湾),2020-05-22T05:00:02+08:00
+CTB,20R,香港體育館,Hong Kong Coliseum,啟德 (沐安街),Kai Tak (Muk On Street),香港体育馆,启德 (沐安街),2020-05-22T05:00:02+08:00
+CTB,22,啟德郵輪碼頭,Kai Tak Cruise Terminal,九龍塘 (又一城),Kowloon Tong (Festival Walk),启德邮轮码头,九龙塘 (又一城),2020-05-22T05:00:02+08:00
+CTB,22M,啟德郵輪碼頭,Kai Tak Cruise Terminal,九龍城,Kowloon City,启德邮轮码头,九龙城,2020-05-22T05:00:02+08:00
+CTB,25A,灣仔北,Wan Chai North,寶馬山,Braemar Hill,湾仔北,宝马山,2020-05-22T05:00:02+08:00
+CTB,260,中環 (交易廣場),Central (Exchange Square),赤柱市場,Stanley Market,中环 (交易广场),赤柱市场,2020-05-22T05:00:02+08:00
+CTB,307,大埔中心,Tai Po Centre,中環碼頭／上環,Central (Ferry Piers) / Sheung Wan,大埔中心,中环码头／上环,2020-05-22T05:00:02+08:00
+CTB,307A,大埔頭,Tai Po Tau,上環,Sheung Wan,大埔头,上环,2020-05-22T05:00:02+08:00
+CTB,307P,天后站,Tin Hau Station,大埔 (汀太路),Tai Po (Ting Tai Road),天后站,大埔 (汀太路),2020-05-22T05:00:02+08:00
+CTB,314,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),赤柱 (海灘／市場),Stanley (Beach / Market),小西湾 (蓝湾半岛),赤柱 (海滩／市场),2020-05-22T05:00:02+08:00
+CTB,347,金鐘 (西),Admiralty (West),香港仔 (經域多利道),Aberdeen (via Victoria Road),金钟 (西),香港仔 (经域多利道),2020-05-22T05:00:02+08:00
+CTB,37A,置富花園,Chi Fu Fa Yuen,中環,Central,置富花园,中环,2020-05-22T05:00:02+08:00
+CTB,37B,置富花園,Chi Fu Fa Yuen,金鐘,Admiralty,置富花园,金钟,2020-05-22T05:00:02+08:00
+CTB,37S,中環(交易廣場),Central (Exchange Square),置富花園,Chi Fu Fa Yuen,中环(交易广场),置富花园,2020-05-22T05:00:02+08:00
+CTB,37X,置富花園,Chi Fu Fa Yuen,金鐘,Admiralty,置富花园,金钟,2020-05-22T05:00:02+08:00
+CTB,40,華富 (北),Wah Fu (North),灣仔北,Wan Chai North,华富 (北),湾仔北,2020-05-22T05:00:02+08:00
+CTB,40M,華富 (北),Wah Fu (North),金鐘 (政府總部),Admiralty (Central Government Offices),华富 (北),金钟 (政府总部),2020-05-22T05:00:02+08:00
+CTB,40P,華富 (北),Wah Fu (North),羅便臣道,Robinson Road,华富 (北),罗便臣道,2020-05-22T05:00:02+08:00
+CTB,41A,華富 (中),Wah Fu (Central),北角碼頭,North Point Ferry Pier,华富 (中),北角码头,2020-05-22T05:00:02+08:00
+CTB,43M,田灣,Tin Wan,石塘咀,Shek Tong Tsui,田湾,石塘咀,2020-05-22T05:00:02+08:00
+CTB,47P,堅尼地城 (卑路乍灣),Kennedy Town (Belcher Bay),黃竹坑,Wong Chuk Hang,坚尼地城 (卑路乍湾),黄竹坑,2020-05-22T05:00:02+08:00
+CTB,48,深灣／海洋公園,Sham Wan / Ocean Park,華富 (北),Wah Fu (North),深湾／海洋公园,华富 (北),2020-05-22T05:00:02+08:00
+CTB,511,大坑徑,Tai Hang Drive,中環碼頭,Central (Ferry Piers),大坑径,中环码头,2020-05-22T05:00:02+08:00
+CTB,592,海怡半島,South Horizons,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),海怡半岛,铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,592S,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),海怡半島,South Horizons,铜锣湾 (摩顿台),海怡半岛,2020-05-22T05:00:02+08:00
+CTB,5B,堅尼地城,Kennedy Town,銅鑼灣 / 香港大球場,Causeway Bay / Hong Kong Stadium,坚尼地城,铜锣湾 / 香港大球场,2020-05-22T05:00:02+08:00
+CTB,5X,堅尼地城,Kennedy Town,銅鑼灣 (威非路道),Causeway Bay (Whitfield Road),坚尼地城,铜锣湾 (威非路道),2020-05-22T05:00:02+08:00
+CTB,6,中環 (交易廣場),Central (Exchange Square),赤柱市場,Stanley Market,中环 (交易广场),赤柱市场,2020-05-22T05:00:02+08:00
+CTB,606,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),彩雲 (豐盛街),Choi Wan (Fung Shing Street),小西湾 (蓝湾半岛),彩云 (丰盛街),2020-05-22T05:00:02+08:00
+CTB,606A,彩雲 (豐盛街),Choi Wan (Fung Shing Street),耀東邨,Yiu Tung Estate,彩云 (丰盛街),耀东邨,2020-05-22T05:00:02+08:00
+CTB,606X,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),九龍灣,Kowloon Bay,小西湾 (蓝湾半岛),九龙湾,2020-05-22T05:00:02+08:00
+CTB,608,九龍城 (盛德街),Kowloon City (Shing Tak Street),嘉亨灣,Grand Promenade,九龙城 (盛德街),嘉亨湾,2020-05-22T05:00:02+08:00
+CTB,619,中環 (港澳碼頭),Central (Macau Ferry),順利邨,Shun Lee Estate,中环 (港澳码头),顺利邨,2020-05-22T05:00:02+08:00
+CTB,619P,順利邨,Shun Lee Estate,中環 (港澳碼頭),Central (Macau Ferry),顺利邨,中环 (港澳码头),2020-05-22T05:00:02+08:00
+CTB,619X,順利邨,Shun Lee Estate,中環 (港澳碼頭),Central (Macau Ferry),顺利邨,中环 (港澳码头),2020-05-22T05:00:02+08:00
+CTB,61R,沙田第一城,City One Shatin,藍田站,Lam Tin Station,沙田第一城,蓝田站,2020-05-22T05:00:02+08:00
+CTB,621,麗港城,Laguna City,中環 (香港站),Central (Hong Kong Station),丽港城,中环 (香港站),2020-05-22T05:00:02+08:00
+CTB,629,中環 (天星碼頭),Central (Star Ferry),海洋公園,Ocean Park,中环 (天星码头),海洋公园,2020-05-22T05:00:02+08:00
+CTB,671,鴨脷洲 (利樂街),Ap Lei Chau (Lee Lok Street),鑽石山站,Diamond Hill Station,鸭脷洲 (利乐街),钻石山站,2020-05-22T05:00:02+08:00
+CTB,678,上水,Sheung Shui,銅鑼灣 (東院道),Causeway Bay (Eastern Hospital Road),上水,铜锣湾 (东院道),2020-05-22T05:00:02+08:00
+CTB,681,中環 (香港站),Central (Hong Kong Station),馬鞍山市中心,Ma On Shan Town Centre,中环 (香港站),马鞍山市中心,2020-05-22T05:00:02+08:00
+CTB,681P,馬鞍山 (耀安邨),Ma On Shan (Yiu On Estate),上環,Sheung Wan,马鞍山 (耀安邨),上环,2020-05-22T05:00:02+08:00
+CTB,690,中環 (交易廣場),Central (Exchange Square),將軍澳 (康盛花園),Tseung Kwan O (Hong Sing Garden),中环 (交易广场),将军澳 (康盛花园),2020-05-22T05:00:02+08:00
+CTB,690P,將軍澳 (康盛花園),Tseung Kwan O (Hong Sing Garden),中環 (交易廣場),Central (Exchange Square),将军澳 (康盛花园),中环 (交易广场),2020-05-22T05:00:02+08:00
+CTB,6A,中環 (交易廣場),Central (Exchange Square),赤柱炮台 (閘口),Stanley Fort (Gate),中环 (交易广场),赤柱炮台 (闸口),2020-05-22T05:00:02+08:00
+CTB,6X,中環 (交易廣場),Central (Exchange Square),赤柱市場,Stanley Market,中环 (交易广场),赤柱市场,2020-05-22T05:00:02+08:00
+CTB,7,石排灣,Shek Pai Wan,中環碼頭,Central (Ferry Piers),石排湾,中环码头,2020-05-22T05:00:02+08:00
+CTB,70,華貴,Wah Kwai,中環 (交易廣場),Central (Exchange Square),华贵,中环 (交易广场),2020-05-22T05:00:02+08:00
+CTB,70A,中環 (交易廣場),Central (Exchange Square),香港仔,Aberdeen,中环 (交易广场),香港仔,2020-05-22T05:00:02+08:00
+CTB,70P,石排灣,Shek Pai Wan,中環 (交易廣場),Central (Exchange Square),石排湾,中环 (交易广场),2020-05-22T05:00:02+08:00
+CTB,71,黃竹坑,Wong Chuk Hang,中環 (林士街),Central (Rumsey Street),黄竹坑,中环 (林士街),2020-05-22T05:00:02+08:00
+CTB,71P,深灣,Sham Wan,中環碼頭,Central (Ferry Piers),深湾,中环码头,2020-05-22T05:00:02+08:00
+CTB,72,華貴邨,Wah Kwai Estate,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),华贵邨,铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,72A,深灣,Sham Wan,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),深湾,铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,72S,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),華貴邨,Wah Kwai Estate,铜锣湾 (摩顿台),华贵邨,2020-05-22T05:00:02+08:00
+CTB,73,數碼港／華富 (北),Cyberport / Wah Fu (North),赤柱市場,Stanley Market,数码港／华富 (北),赤柱市场,2020-05-22T05:00:02+08:00
+CTB,73P,深灣,Sham Wan,數碼港,Cyberport,深湾,数码港,2020-05-22T05:00:02+08:00
+CTB,73S,赤柱市場,Stanley Market,海洋公園,Ocean Park,赤柱市场,海洋公园,2020-05-22T05:00:02+08:00
+CTB,75,深灣,Sham Wan,中環 (交易廣場),Central (Exchange Square),深湾,中环 (交易广场),2020-05-22T05:00:02+08:00
+CTB,76,石排灣,Shek Pai Wan,銅鑼灣 (邊寧頓街),Causeway Bay (Pennington Street),石排湾,铜锣湾 (边宁顿街),2020-05-22T05:00:02+08:00
+CTB,77,田灣,Tin Wan,筲箕灣,Shau Kei Wan,田湾,筲箕湾,2020-05-22T05:00:02+08:00
+CTB,77A,筲箕灣,Shau Kei Wan,田灣,Tin Wan,筲箕湾,田湾,2020-05-22T05:00:02+08:00
+CTB,77S,田灣,Tin Wan,筲箕灣,Shau Kei Wan,田湾,筲箕湾,2020-05-22T05:00:02+08:00
+CTB,77X,華貴邨,Wah Kwai Estate,西灣河,Sai Wan Ho,华贵邨,西湾河,2020-05-22T05:00:02+08:00
+CTB,780,柴灣 (東),Chai Wan (East),中環碼頭,Central (Ferry Piers),柴湾 (东),中环码头,2020-05-22T05:00:02+08:00
+CTB,780P,興華 (經銅鑼灣),Hing Wah (via Causeway Bay),中環碼頭,Central (Ferry Piers),兴华 (经铜锣湾),中环码头,2020-05-22T05:00:02+08:00
+CTB,788,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),中環 (港澳碼頭),Central (Macau Ferry),小西湾 (蓝湾半岛),中环 (港澳码头),2020-05-22T05:00:02+08:00
+CTB,789,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),金鐘 (樂禮街),Admiralty (Rodney Street),小西湾 (蓝湾半岛),金钟 (乐礼街),2020-05-22T05:00:02+08:00
+CTB,85,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),寶馬山／北角,Braemar Hill / North Point,小西湾 (蓝湾半岛),宝马山／北角,2020-05-22T05:00:02+08:00
+CTB,85A,筲箕灣,Shau Kei Wan,寶馬山,Braemar Hill,筲箕湾,宝马山,2020-05-22T05:00:02+08:00
+CTB,85P,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),寶馬山,Braemar Hill,小西湾 (蓝湾半岛),宝马山,2020-05-22T05:00:02+08:00
+CTB,88R,沙田第一城,City One Shatin,中環,Central,沙田第一城,中环,2020-05-22T05:00:02+08:00
+CTB,8S,跑馬地馬場,Happy Valley Racecourse,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),跑马地马场,小西湾 (蓝湾半岛),2020-05-22T05:00:02+08:00
+CTB,8X,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),跑馬地 (下),Happy Valley (Lower),小西湾 (蓝湾半岛),跑马地 (下),2020-05-22T05:00:02+08:00
+CTB,90,鴨脷洲邨,Ap Lei Chau Estate,中環 (交易廣場),Central (Exchange Square),鸭脷洲邨,中环 (交易广场),2020-05-22T05:00:02+08:00
+CTB,907B,大埔 (廣福球場),Tai Po (Kwong Fuk Football Ground),灣仔 (會議展覽中心),Wan Chai (HKCEC),大埔 (广福球场),湾仔 (会议展览中心),2020-05-22T05:00:02+08:00
+CTB,907C,大埔頭,Tai Po Tau,灣仔 (會議展覽中心),Wan Chai (HKCEC),大埔头,湾仔 (会议展览中心),2020-05-22T05:00:02+08:00
+CTB,90B,海怡半島,South Horizons,金鐘 (東),Admiralty (East),海怡半岛,金钟 (东),2020-05-22T05:00:02+08:00
+CTB,90C,鴨脷洲大街,Main Street Ap Lei Chau,中環 (怡和大廈),Central (Jardine House),鸭脷洲大街,中环 (怡和大厦),2020-05-22T05:00:02+08:00
+CTB,930,荃灣 (愉景新城／荃灣西站),Tsuen Wan (Discovery Park / Tsuen Wan West Station),灣仔北,Wan Chai North,荃湾 (愉景新城／荃湾西站),湾仔北,2020-05-22T05:00:02+08:00
+CTB,930A,荃灣西站,Tsuen Wan West Station,灣仔北,Wan Chai North,荃湾西站,湾仔北,2020-05-22T05:00:02+08:00
+CTB,930X,荃灣 (愉景新城),Tsuen Wan (Discovery Park),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),荃湾 (愉景新城),铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,93C,鴨脷洲大街,Main Street Ap Lei Chau,堅道,Caine Road,鸭脷洲大街,坚道,2020-05-22T05:00:02+08:00
+CTB,95C,鴨脷洲邨,Ap Lei Chau Estate,置富花園,Chi Fu Fa Yuen,鸭脷洲邨,置富花园,2020-05-22T05:00:02+08:00
+CTB,95P,田灣,Tin Wan,鴨脷洲邨,Ap Lei Chau Estate,田湾,鸭脷洲邨,2020-05-22T05:00:02+08:00
+CTB,96,利東邨,Lei Tung Estate,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),利东邨,铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,962,屯門 (龍門居),Tuen Mun (Lung Mun Oasis),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),屯门 (龙门居),铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,962A,屯門 (悅湖山莊),Tuen Mun (Yuet Wu Villa),金鐘,Admiralty,屯门 (悅湖山庄),金钟,2020-05-22T05:00:02+08:00
+CTB,962B,屯門 (置樂花園),Tuen Mun (Chi Lok Fa Yuen),銅鑼灣 (摩頓台)／金鐘,Causeway Bay (Moreton Terrace) / Admiralty,屯门 (置乐花园),铜锣湾 (摩顿台)／金钟,2020-05-22T05:00:02+08:00
+CTB,962C,屯門 (龍門居),Tuen Mun (Lung Mun Oasis),太古 (康怡廣場),Taikoo (Kornhill Plaza),屯门 (龙门居),太古 (康怡广场),2020-05-22T05:00:02+08:00
+CTB,962E,掃管笏,So Kwun Wat,太古 (康怡廣場),Taikoo (Kornhill Plaza),扫管笏,太古 (康怡广场),2020-05-22T05:00:02+08:00
+CTB,962G,中環 (交易廣場),Central (Exchange Square),屯門 (湖景路),Tuen Mun (Wu King Road),中环 (交易广场),屯门 (湖景路),2020-05-22T05:00:02+08:00
+CTB,962N,屯門 (置樂花園),Tuen Mun (Chi Lok Fa Yuen),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),屯门 (置乐花园),铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,962P,屯門 (龍門居),Tuen Mun (Lung Mun Oasis),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),屯门 (龙门居),铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,962S,屯門 (置樂花園),Tuen Mun (Chi Lok Fa Yuen),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),屯门 (置乐花园),铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,962X,屯門 (龍門居),Tuen Mun (Lung Mun Oasis),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),屯门 (龙门居),铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,967,天水圍 (天恩邨),Tin Shui Wai (Tin Yan Estate),金鐘 (西),Admiralty (West),天水围 (天恩邨),金钟 (西),2020-05-22T05:00:02+08:00
+CTB,967S,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),天水圍 (天恩),Tin Shui Wan (Tin Yan Estate),铜锣湾 (摩顿台),天水围 (天恩),2020-05-22T05:00:02+08:00
+CTB,967X,天水圍 (天恩邨),Tin Shui Wai (Tin Yan Estate),銅鑼灣 (經天水圍北),Causeway Bay (via Tin Shui Wai North),天水围 (天恩邨),铜锣湾 (经天水围北),2020-05-22T05:00:02+08:00
+CTB,969,天水圍市中心,Tin Shui Wai Town Centre,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),天水围市中心,铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,969A,天水圍市中心,Tin Shui Wai Town Centre,金鐘,Admiralty,天水围市中心,金钟,2020-05-22T05:00:02+08:00
+CTB,969B,天水圍市中心,Tin Shui Wai Town Centre,灣仔,Wan Chai,天水围市中心,湾仔,2020-05-22T05:00:02+08:00
+CTB,969C,鰂魚涌,Quarry Bay,天水圍 (天瑞邨),Tin Shui Wai (Tin Shui Estate),鲗鱼涌,天水围 (天瑞邨),2020-05-22T05:00:02+08:00
+CTB,969P,天水圍市中心,Tin Shui Wai Town Centre,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),天水围市中心,铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,969X,天水圍市中心,Tin Shui Wai Town Centre,銅鑼灣 (經天水圍南),Causeway Bay (via Tin Shui Wai South),天水围市中心,铜锣湾 (经天水围南),2020-05-22T05:00:02+08:00
+CTB,97,利東邨,Lei Tung Estate,中環 (交易廣場),Central (Exchange Square),利东邨,中环 (交易广场),2020-05-22T05:00:02+08:00
+CTB,973,尖沙咀 (麼地道),Tsim Sha Tsui (Mody Road),赤柱市場,Stanley Market,尖沙咀 (么地道),赤柱市场,2020-05-22T05:00:02+08:00
+CTB,97A,鴨脷洲大街 / 利東邨,Main Street Ap Lei Chau / Lei Tung Estate,深灣,Sham Wan,鸭脷洲大街 / 利东邨,深湾,2020-05-22T05:00:02+08:00
+CTB,98,利東邨,Lei Tung Estate,香港仔 (成都道),Aberdeen (Chengtu Road),利东邨,香港仔 (成都道),2020-05-22T05:00:02+08:00
+CTB,981P,馬鞍山 (耀安邨),Ma On Shan (Yiu On Estate),灣仔,Wan Chai,马鞍山 (耀安邨),湾仔,2020-05-22T05:00:02+08:00
+CTB,982X,沙田 (愉翠苑),Sha Tin (Yu Chui Court),灣仔,Wan Chai,沙田 (愉翠苑),湾仔,2020-05-22T05:00:02+08:00
+CTB,99,海怡半島,South Horizons,筲箕灣,Shau Kei Wan,海怡半岛,筲箕湾,2020-05-22T05:00:02+08:00
+CTB,99X,海怡半島,South Horizons,西灣河,Sai Wan Ho,海怡半岛,西湾河,2020-05-22T05:00:02+08:00
+CTB,A10,鴨脷洲 (利樂街),Ap Lei Chau (Lee Lok Street),機場,Airport,鸭脷洲 (利乐街),机场,2020-05-22T05:00:02+08:00
+CTB,A11,北角碼頭,North Point Ferry Pier,機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),北角码头,机场 (经港珠澳大桥香港口岸),2020-05-22T05:00:02+08:00
+CTB,A11T,北角碼頭,North Point Ferry Pier,機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),北角码头,机场 (经港珠澳大桥香港口岸),2020-05-22T05:00:02+08:00
+CTB,A12,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),機場,Airport,小西湾 (蓝湾半岛),机场,2020-05-22T05:00:02+08:00
+CTB,A17,深灣,Sham Wan,機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),深湾,机场 (经港珠澳大桥香港口岸),2020-05-22T05:00:02+08:00
+CTB,A20,紅磡站,Hung Hom Station,機場,Airport,红磡站,机场,2020-05-22T05:00:02+08:00
+CTB,A21,紅磡站,Hung Hom Station,機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),红磡站,机场 (经港珠澳大桥香港口岸),2020-05-22T05:00:02+08:00
+CTB,A22,藍田站,Lam Tin Station,機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),蓝田站,机场 (经港珠澳大桥香港口岸),2020-05-22T05:00:02+08:00
+CTB,A23,慈雲山 (北),Tsz Wan Shan (North),機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),慈云山 (北),机场 (经港珠澳大桥香港口岸),2020-05-22T05:00:02+08:00
+CTB,A26,油塘,Yau Tong,機場,Airport,油塘,机场,2020-05-22T05:00:02+08:00
+CTB,A26P,油塘,Yau Tong,機場,Airport,油塘,机场,2020-05-22T05:00:02+08:00
+CTB,A29,將軍澳 (寶琳),Tseung Kwan O (Po Lam),機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),将军澳 (宝琳),机场 (经港珠澳大桥香港口岸),2020-05-22T05:00:02+08:00
+CTB,A29P,將軍澳站,Tseung Kwan O Station,機場,Airport,将军澳站,机场,2020-05-22T05:00:02+08:00
+CTB,AAA,機場 (地面運輸中心),Airport (Ground Transportation Centre),機場 (地面運輸中心),Airport (Ground Transportation Centre),机场 (地面运输中心),机场 (地面运输中心),2020-05-22T05:00:02+08:00
+CTB,B3,屯門碼頭,Tuen Mun Ferry Pier,深圳灣口岸,Shenzhen Bay Port,屯门码头,深圳湾口岸,2020-05-22T05:00:02+08:00
+CTB,B3A,山景邨,Shan King Estate,深圳灣口岸,Shenzhen Bay Port,山景邨,深圳湾口岸,2020-05-22T05:00:02+08:00
+CTB,B3M,深圳灣口岸,Shenzhen Bay Port,屯門站,Tuen Mun Station,深圳湾口岸,屯门站,2020-05-22T05:00:02+08:00
+CTB,B3X,屯門市中心,Tuen Mun Town Centre,深圳灣口岸,Shenzhen Bay Port,屯门市中心,深圳湾口岸,2020-05-22T05:00:02+08:00
+CTB,B5,港珠澳大橋香港口岸,Hong Kong-Zhuhai-Macao Bridge Hong Kong Port,欣澳站,Sunny Bay Station,港珠澳大桥香港口岸,欣澳站,2020-05-22T05:00:02+08:00
+CTB,E11,天后站,Tin Hau Station,機場博覽館,AsiaWorld-Expo,天后站,机场博览馆,2020-05-22T05:00:02+08:00
+CTB,E11A,天后站,Tin Hau Station,機場博覽館 (經東涌北),AsiaWorld-Expo (via Tung Chung North),天后站,机场博览馆 (经东涌北),2020-05-22T05:00:02+08:00
+CTB,E11S,東涌 (滿東邨),Tung Chung (Mun Tung Estate),天后站,Tin Hau Station,东涌 (满东邨),天后站,2020-05-22T05:00:02+08:00
+CTB,E21,大角咀 (維港灣),Tai Kok Tsui (Island Harbourview),機場博覽館,AsiaWorld-Expo,大角咀 (维港湾),机场博览馆,2020-05-22T05:00:02+08:00
+CTB,E21A,何文田 (愛民邨),Ho Man Tin (Oi Man Estate),東涌 (逸東邨),Tung Chung (Yat Tung Estate),何文田 (爱民邨),东涌 (逸东邨),2020-05-22T05:00:02+08:00
+CTB,E21C,大角咀 (維港灣),Tai Kok Tsui (Island Harbourview),飛機維修區,Aircraft Maintenance Area,大角咀 (维港湾),飞机维修区,2020-05-22T05:00:02+08:00
+CTB,E21X,東涌 (滿東邨),Tung Chung (Mun Tung Estate),紅磡站,Hung Hom Station,东涌 (满东邨),红磡站,2020-05-22T05:00:02+08:00
+CTB,E22,藍田 (北),Lam Tin (North),機場博覽館,AsiaWorld-Expo,蓝田 (北),机场博览馆,2020-05-22T05:00:02+08:00
+CTB,E22A,將軍澳 (康盛花園),Tseung Kwan O (Hong Sing Garden),機場博覽館,AsiaWorld-Expo,将军澳 (康盛花园),机场博览馆,2020-05-22T05:00:02+08:00
+CTB,E22C,調景嶺站,Tiu Keng Leng Station,飛機維修區,Aircraft Maintenance Area,调景岭站,飞机维修区,2020-05-22T05:00:02+08:00
+CTB,E22P,油塘,Yau Tong,機場博覽館,AsiaWorld-Expo,油塘,机场博览馆,2020-05-22T05:00:02+08:00
+CTB,E22S,東涌 (滿東邨),Tung Chung (Mun Tung Estate),將軍澳 (寶琳),Tseung Kwan O (Po Lam),东涌 (满东邨),将军澳 (宝琳),2020-05-22T05:00:02+08:00
+CTB,E22X,油塘,Yau Tong,機場博覽館,AsiaWorld-Expo,油塘,机场博览馆,2020-05-22T05:00:02+08:00
+CTB,E23,慈雲山 (南),Tsz Wan Shan (South),機場 (地面運輸中心),Airport (Ground Transportation Centre),慈云山 (南),机场 (地面运输中心),2020-05-22T05:00:02+08:00
+CTB,E23A,慈雲山 (南),Tsz Wan Shan (South),機場 (經東涌北),Airport (via Tung Chung North),慈云山 (南),机场 (经东涌北),2020-05-22T05:00:02+08:00
+CTB,N11,中環 (港澳碼頭),Central (Macau Ferry),機場 (地面運輸中心),Airport (Ground Transportation Centre),中环 (港澳码头),机场 (地面运输中心),2020-05-22T05:00:02+08:00
+CTB,N118,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),長沙灣 (深旺道),Cheung Sha Wan (Sham Mong Road),小西湾 (蓝湾半岛),长沙湾 (深旺道),2020-05-22T05:00:02+08:00
+CTB,N170,華富 (中),Wah Fu (Central),沙田巿中心,Sha Tin Central,华富 (中),沙田巿中心,2020-05-22T05:00:02+08:00
+CTB,N171,鴨脷洲邨,Ap Lei Chau Estate,荔枝角,Lai Chi Kok,鸭脷洲邨,荔枝角,2020-05-22T05:00:02+08:00
+CTB,N182,中環 (港澳碼頭),Central (Macau Ferry),沙田 (廣源),Sha Tin (Kwong Yuen),中环 (港澳码头),沙田 (广源),2020-05-22T05:00:02+08:00
+CTB,N21,尖沙咀 (天星碼頭),Tsim Sha Tsui (Star Ferry),機場 (地面運輸中心),Airport (Ground Transportation Centre),尖沙咀 (天星码头),机场 (地面运输中心),2020-05-22T05:00:02+08:00
+CTB,N21A,尖沙咀 (天星碼頭),Tsim Sha Tsui (Star Ferry),機場 (經逸東邨),Airport (via Yat Tung Estate),尖沙咀 (天星码头),机场 (经逸东邨),2020-05-22T05:00:02+08:00
+CTB,N23,慈雲山 (北),Tsz Wan Shan (North),東涌站,Tung Chung Station,慈云山 (北),东涌站,2020-05-22T05:00:02+08:00
+CTB,N26,油塘,Yau Tong,東涌站,Tung Chung Station,油塘,东涌站,2020-05-22T05:00:02+08:00
+CTB,N29,將軍澳 (康盛花園),Tseung Kwan O (Hong Sing Garden),東涌站,Tung Chung Station,将军澳 (康盛花园),东涌站,2020-05-22T05:00:02+08:00
+CTB,N307,上環,Sheung Wan,大埔中心,Tai Po Centre,上环,大埔中心,2020-05-22T05:00:02+08:00
+CTB,N619,中環 (港澳碼頭),Central (Macau Ferry),順利邨,Shun Lee Estate,中环 (港澳码头),顺利邨,2020-05-22T05:00:02+08:00
+CTB,N681,中環碼頭,Central (Ferry Piers),馬鞍山市中心,Ma On Shan Town Centre,中环码头,马鞍山市中心,2020-05-22T05:00:02+08:00
+CTB,N6X,中環 (交易廣場),Central (Exchange Square),赤柱市場,Stanley Market,中环 (交易广场),赤柱市场,2020-05-22T05:00:02+08:00
+CTB,N72,華貴邨,Wah Kwai Estate,鰂魚涌 (海澤街),Quarry Bay (Hoi Chak Street),华贵邨,鲗鱼涌 (海泽街),2020-05-22T05:00:02+08:00
+CTB,N8X,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),堅尼地城,Kennedy Town,小西湾 (蓝湾半岛),坚尼地城,2020-05-22T05:00:02+08:00
+CTB,N90,海怡半島,South Horizons,中環 (港澳碼頭),Central (Macau Ferry),海怡半岛,中环 (港澳码头),2020-05-22T05:00:02+08:00
+CTB,N930,荃灣 (愉景新城),Tsuen Wan (Discovery Park),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),荃湾 (愉景新城),铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,N962,屯門 (龍門居),Tuen Mun (Lung Mun Oasis),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),屯门 (龙门居),铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,N969,天水圍市中心,Tin Shui Wai Town Centre,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),天水围市中心,铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,NA10,鴨脷洲 (利樂街),Ap Lei Chau (Lee Lok Street),機場 / 港珠澳大橋香港口岸,Airport / HZMB Hong Kong Port,鸭脷洲 (利乐街),机场 / 港珠澳大桥香港口岸,2020-05-22T05:00:02+08:00
+CTB,NA11,北角碼頭,North Point Ferry Pier,機場 / 港珠澳大橋香港口岸,Airport / HZMB Hong Kong Port,北角码头,机场 / 港珠澳大桥香港口岸,2020-05-22T05:00:02+08:00
+CTB,NA12,杏花邨,Heng Fa Chuen,機場 / 港珠澳大橋香港口岸,Airport / HZMB Hong Kong Port,杏花邨,机场 / 港珠澳大桥香港口岸,2020-05-22T05:00:02+08:00
+CTB,NA20,黃埔花園,Whampoa Garden,機場 / 港珠澳大橋香港口岸,Airport / HZMB Hong Kong Port,黄埔花园,机场 / 港珠澳大桥香港口岸,2020-05-22T05:00:02+08:00
+CTB,NA21,機場 / 港珠澳大橋香港口岸,Airport / HZMB Hong Kong Port,大角咀 (海輝道),Tai Kok Tsui (Hoi Fai Road),机场 / 港珠澳大桥香港口岸,大角咀 (海辉道),2020-05-22T05:00:02+08:00
+CTB,NA29,將軍澳 (寶琳),Tseung Kwan O (Po Lam),機場 / 港珠澳大橋香港口岸,Airport / HZMB Hong Kong Port,将军澳 (宝琳),机场 / 港珠澳大桥香港口岸,2020-05-22T05:00:02+08:00
+CTB,R11,迪士尼樂園,Disneyland,北角碼頭,North Point Ferry Pier,迪士尼乐园,北角码头,2020-05-22T05:00:02+08:00
+CTB,R22,迪士尼樂園,Disneyland,油塘,Yau Tong,迪士尼乐园,油塘,2020-05-22T05:00:02+08:00
+CTB,R307,大埔 (汀太路),Tai Po (Ting Tai Road),銅鑼灣 (維多利亞公園),Causeway Bay (Victoria Park),大埔 (汀太路),铜锣湾 (维多利亚公园),2020-05-22T05:00:02+08:00
+CTB,R678,上水,Sheung Shui,銅鑼灣 (維多利亞公園),Causeway Bay (Victoria Park),上水,铜锣湾 (维多利亚公园),2020-05-22T05:00:02+08:00
+CTB,R8,迪士尼樂園,Disneyland,青嶼幹線繳費廣場,Lantau Link Toll Plaza,迪士尼乐园,青屿干线缴费广场,2020-05-22T05:00:02+08:00
+CTB,R930,荃灣 (愉景新城),Tsuen Wan (Discovery Park),銅鑼灣 (維多利亞公園),Causeway Bay (Victoria Park),荃湾 (愉景新城),铜锣湾 (维多利亚公园),2020-05-22T05:00:02+08:00
+CTB,R962,屯門 (龍門居),Tuen Mun (Lung Mun Oasis),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),屯门 (龙门居),铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,R969,天水圍市中心,Tin Shui Wai Town Centre,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),天水围市中心,铜锣湾 (摩顿台),2020-05-22T05:00:02+08:00
+CTB,S1,東涌站,Tung Chung Station,機場 (一號客運大樓／博覽館),Airport (Passenger Terminal 1 / AsiaWorld-Expo),东涌站,机场 (一号客运大楼／博览馆),2020-05-22T05:00:02+08:00
+CTB,S52,東涌 (逸東邨),Tung Chung (Yat Tung Estate),飛機維修區,Aircraft Maintenance Area,东涌 (逸东邨),飞机维修区,2020-05-22T05:00:02+08:00
+CTB,S52A,東涌北,Tung Chung North,飛機維修區,Aircraft Maintenance Area,东涌北,飞机维修区,2020-05-22T05:00:02+08:00
+CTB,S52P,東涌 (逸東邨),Tung Chung (Yat Tung Estate),駿坪路 (亞洲空運中心),Chun Ping Road (Asia Airfreight Terminal),东涌 (逸东邨),骏坪路 (亚洲空运中心),2020-05-22T05:00:02+08:00
+CTB,S56,東涌站,Tung Chung Station,機場 (一號客運大樓),Airport (Passenger Terminal 1),东涌站,机场 (一号客运大楼),2020-05-22T05:00:02+08:00
+CTB,W1,金鐘(西),Admiralty (West),高鐵西九龍站,High Speed Rail West Kowloon Station,金钟(西),高铁西九龙站,2020-05-22T05:00:02+08:00
+CTB,X1,東涌站,Tung Chung Station,機場博覽館,AsiaWorld-Expo,东涌站,机场博览馆,2020-05-22T05:00:02+08:00
+CTB,X962,中環 (香港站),Central (Hong Kong Station),屯門 (龍門居),Tuen Mun (Lung Mun Oasis),中环 (香港站),屯门 (龙门居),2020-05-22T05:00:02+08:00

@@ -1,0 +1,159 @@
+co,route,orig_tc,orig_en,dest_tc,dest_en,orig_sc,dest_sc,data_timestamp
+NWFB,101,堅尼地城,Kennedy Town,觀塘 (裕民坊),Kwun Tong (Yue Man Square),坚尼地城,观塘 (裕民坊),2020-05-22T05:00:02+08:00
+NWFB,101R,跑馬地馬場,Happy Valley Racecourse,觀塘 (裕民坊),Kwun Tong (Yue Man Square),跑马地马场,观塘 (裕民坊),2020-05-22T05:00:02+08:00
+NWFB,101X,堅尼地城,Kennedy Town,觀塘 (裕民坊),Kwun Tong (Yue Man Square),坚尼地城,观塘 (裕民坊),2020-05-22T05:00:02+08:00
+NWFB,102R,跑馬地馬場,Happy Valley Racecourse,美孚,Mei Foo,跑马地马场,美孚,2020-05-22T05:00:02+08:00
+NWFB,104,堅尼地城／中環／金鐘,Kennedy Town / Central / Admiralty,白田邨,Pak Tin Estate,坚尼地城／中环／金钟,白田邨,2020-05-22T05:00:02+08:00
+NWFB,104R,中環碼頭,Central (Ferry Piers),旺角,Mong Kok,中环码头,旺角,2020-05-22T05:00:02+08:00
+NWFB,105R,灣仔 (會展新翼),Wan Chai (HKCEC Extension),美孚,Mei Foo,湾仔 (会展新翼),美孚,2020-05-22T05:00:02+08:00
+NWFB,106,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),黃大仙,Wong Tai Sin,小西湾 (蓝湾半岛),黄大仙,2020-05-22T05:00:02+08:00
+NWFB,106A,黃大仙,Wong Tai Sin,太古 (康怡廣場),Taikoo (Kornhill Plaza),黄大仙,太古 (康怡广场),2020-05-22T05:00:02+08:00
+NWFB,106P,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),黃大仙,Wong Tai Sin,小西湾 (蓝湾半岛),黄大仙,2020-05-22T05:00:02+08:00
+NWFB,109,中環 (港澳碼頭),Central (Macau Ferry),何文田邨,Ho Man Tin Estate,中环 (港澳码头),何文田邨,2020-05-22T05:00:02+08:00
+NWFB,110,筲箕灣,Shau Kei Wan,尖沙咀 (麼地道),Tsim Sha Tsui (Mody Road),筲箕湾,尖沙咀 (么地道),2020-05-22T05:00:02+08:00
+NWFB,111,中環 (港澳碼頭),Central (Macau Ferry),坪石邨,Ping Shek Estate,中环 (港澳码头),坪石邨,2020-05-22T05:00:02+08:00
+NWFB,111P,彩福邨,Choi Fook Estate,中環 (港澳碼頭),Central (Macau Ferry),彩福邨,中环 (港澳码头),2020-05-22T05:00:02+08:00
+NWFB,111R,灣仔 (會展新翼),Wan Chai (HKCEC Extension),觀塘 (裕民坊),Kwun Tong (Yue Man Square),湾仔 (会展新翼),观塘 (裕民坊),2020-05-22T05:00:02+08:00
+NWFB,112,北角 (百福道),North Point (Pak Fuk Road),蘇屋邨,So Uk Estate,北角 (百福道),苏屋邨,2020-05-22T05:00:02+08:00
+NWFB,113,堅尼地城 (卑路乍灣),Kennedy Town (Belcher Bay),彩虹,Choi Hung,坚尼地城 (卑路乍湾),彩虹,2020-05-22T05:00:02+08:00
+NWFB,115,中環 (港澳碼頭),Central (Macau Ferry),九龍城碼頭,Kowloon City Ferry Pier,中环 (港澳码头),九龙城码头,2020-05-22T05:00:02+08:00
+NWFB,115P,海逸豪園,Laguna Verde,中環 (港澳碼頭),Central (Macau Ferry),海逸豪园,中环 (港澳码头),2020-05-22T05:00:02+08:00
+NWFB,116,鰂魚涌 (祐民街),Quarry Bay (Yau Man Street),慈雲山 (中),Tsz Wan Shan (Central),鲗鱼涌 (祐民街),慈云山 (中),2020-05-22T05:00:02+08:00
+NWFB,13,中環 (大會堂),Central (City Hall),旭龢道 (半山區),Kotewall Road (Mid-levels),中环 (大会堂),旭龢道 (半山区),2020-05-22T05:00:02+08:00
+NWFB,14,嘉亨灣,Grand Promenade,赤柱炮台 (閘口)／馬坑,Stanley Fort (Gate) / Ma Hang,嘉亨湾,赤柱炮台 (闸口)／马坑,2020-05-22T05:00:02+08:00
+NWFB,15,中環,Central,山頂,The Peak,中环,山顶,2020-05-22T05:00:02+08:00
+NWFB,15B,灣仔 (會展新翼),Wan Chai (HKCEC Extension),山頂,The Peak,湾仔 (会展新翼),山顶,2020-05-22T05:00:02+08:00
+NWFB,15C,中環 (天星碼頭),Central (Star Ferry),花園道 (山頂纜車總站),Garden Road (Lower Peak Tram Station),中环 (天星码头),花园道 (山顶缆车总站),2020-05-22T05:00:02+08:00
+NWFB,15R,海洋公園,Ocean Park,山頂,The Peak,海洋公园,山顶,2020-05-22T05:00:02+08:00
+NWFB,15X,天后,Tin Hau,山頂,The Peak,天后,山顶,2020-05-22T05:00:02+08:00
+NWFB,18,北角 (健康中街),North Point (Healthy Street Central),中環 (港澳碼頭)／上環,Central (Macau Ferry) / Sheung Wan,北角 (健康中街),中环 (港澳码头)／上环,2020-05-22T05:00:02+08:00
+NWFB,18P,堅尼地城 (卑路乍灣),Kennedy Town (Belcher Bay),北角 (健康中街),North Point (Healthy Street Central),坚尼地城 (卑路乍湾),北角 (健康中街),2020-05-22T05:00:02+08:00
+NWFB,18X,筲箕灣,Shau Kei Wan,堅尼地城 (卑路乍灣),Kennedy Town (Belcher Bay),筲箕湾,坚尼地城 (卑路乍湾),2020-05-22T05:00:02+08:00
+NWFB,2,嘉亨灣,Grand Promenade,中環 (港澳碼頭),Central (Macau Ferry),嘉亨湾,中环 (港澳码头),2020-05-22T05:00:02+08:00
+NWFB,23,北角碼頭,North Point Ferry Pier,蒲飛路,Pokfield Road,北角码头,蒲飞路,2020-05-22T05:00:02+08:00
+NWFB,23B,寶馬山,Braemar Hill,柏道／羅便臣道,Park Road / Robinson Road,宝马山,柏道／罗便臣道,2020-05-22T05:00:02+08:00
+NWFB,25,中環 (5 號碼頭),Central (Pier 5),寶馬山,Braemar Hill,中环 (5 号码头),宝马山,2020-05-22T05:00:02+08:00
+NWFB,26,勵德邨,Lai Tak Tsuen,荷李活道,Hollywood Road,励德邨,荷李活道,2020-05-22T05:00:02+08:00
+NWFB,27,北角碼頭,North Point Ferry Pier,寶馬山,Braemar Hill,北角码头,宝马山,2020-05-22T05:00:02+08:00
+NWFB,2A,耀東邨,Yiu Tung Estate,灣仔北,Wan Chai North,耀东邨,湾仔北,2020-05-22T05:00:02+08:00
+NWFB,2X,筲箕灣／愛秩序灣,Shau Kei Wan / Aldrich Bay,灣仔北,Wan Chai North,筲箕湾／爱秩序湾,湾仔北,2020-05-22T05:00:02+08:00
+NWFB,301,紅磡 (海底隧道收費廣場),Hung Hom (Cross Harbour Tunnel Toll Plaza),上環,Sheung Wan,红磡 (海底隧道收费广场),上环,2020-05-22T05:00:02+08:00
+NWFB,302,慈雲山 (北),Tsz Wan Shan (North),上環,Sheung Wan,慈云山 (北),上环,2020-05-22T05:00:02+08:00
+NWFB,302A,慈雲山 (北),Tsz Wan Shan (North),北角 (健康村),North Point (Healthy Village),慈云山 (北),北角 (健康村),2020-05-22T05:00:02+08:00
+NWFB,30X,數碼港,Cyberport,中環 (交易廣場),Central (Exchange Square),数码港,中环 (交易广场),2020-05-22T05:00:02+08:00
+NWFB,33X,數碼港,Cyberport,西灣河,Sai Wan Ho,数码港,西湾河,2020-05-22T05:00:02+08:00
+NWFB,38,置富花園,Chi Fu Fa Yuen,北角碼頭,North Point Ferry Pier,置富花园,北角码头,2020-05-22T05:00:02+08:00
+NWFB,388,柴灣站,Chai Wan Station,柴灣墳場／歌連臣角,Chai Wan Cemeteries / Cape Collinson,柴湾站,柴湾坟场／歌连臣角,2020-05-22T05:00:02+08:00
+NWFB,389,筲箕灣,Shau Kei Wan,柴灣墳場／歌連臣角,Chai Wan Cemeteries / Cape Collinson,筲箕湾,柴湾坟场／歌连臣角,2020-05-22T05:00:02+08:00
+NWFB,38S,置富花園,Chi Fu Fa Yuen,銅鑼灣 (中央圖書館),Causeway Bay (Central Library),置富花园,铜锣湾 (中央图书馆),2020-05-22T05:00:02+08:00
+NWFB,3A,中環 (天星碼頭),Central (Star Ferry),摩星嶺,Felix Villas,中环 (天星码头),摩星岭,2020-05-22T05:00:02+08:00
+NWFB,4,華富 (南),Wah Fu (South),中環,Central,华富 (南),中环,2020-05-22T05:00:02+08:00
+NWFB,42,華富 (南),Wah Fu (South),北角碼頭,North Point Ferry Pier,华富 (南),北角码头,2020-05-22T05:00:02+08:00
+NWFB,42C,數碼港,Cyberport,北角碼頭,North Point Ferry Pier,数码港,北角码头,2020-05-22T05:00:02+08:00
+NWFB,4X,華富 (南),Wah Fu (South),中環 (交易廣場),Central (Exchange Square),华富 (南),中环 (交易广场),2020-05-22T05:00:02+08:00
+NWFB,590,海怡半島,South Horizons,中環 (交易廣場),Central (Exchange Square),海怡半岛,中环 (交易广场),2020-05-22T05:00:02+08:00
+NWFB,595,海怡半島,South Horizons,香港仔,Aberdeen,海怡半岛,香港仔,2020-05-22T05:00:02+08:00
+NWFB,601,金鐘 (東),Admiralty (East),寶達邨,Po Tat Estate,金钟 (东),宝达邨,2020-05-22T05:00:02+08:00
+NWFB,601P,寶達邨,Po Tat Estate,上環,Sheung Wan,宝达邨,上环,2020-05-22T05:00:02+08:00
+NWFB,63,北角碼頭,North Point Ferry Pier,赤柱市場,Stanley Market,北角码头,赤柱市场,2020-05-22T05:00:02+08:00
+NWFB,641,中環 (港澳碼頭),Central (Macau Ferry),啟德 (啟晴邨),Kai Tak (Kai Ching Estate),中环 (港澳码头),启德 (启晴邨),2020-05-22T05:00:02+08:00
+NWFB,65,北角碼頭,North Point Ferry Pier,赤柱市集,Stanley Market,北角码头,赤柱市集,2020-05-22T05:00:02+08:00
+NWFB,66,中環 (交易廣場),Central (Exchange Square),赤柱廣場 (馬坑),Stanley Plaza (Ma Hang),中环 (交易广场),赤柱广场 (马坑),2020-05-22T05:00:02+08:00
+NWFB,680,金鐘 (東),Admiralty (East),馬鞍山 (利安邨),Ma On Shan (Lee On Estate),金钟 (东),马鞍山 (利安邨),2020-05-22T05:00:02+08:00
+NWFB,680A,馬鞍山 (利安邨),Ma On Shan (Lee On Estate),金鐘 (東),Admiralty (East),马鞍山 (利安邨),金钟 (东),2020-05-22T05:00:02+08:00
+NWFB,680B,馬鞍山 (富安花園),Ma On Shan (Chevalier Garden),金鐘 (東),Admiralty (East),马鞍山 (富安花园),金钟 (东),2020-05-22T05:00:02+08:00
+NWFB,680P,馬鞍山 (烏溪沙站),Ma On Shan (Wu Kai Sha Station),金鐘 (東),Admiralty (East),马鞍山 (乌溪沙站),金钟 (东),2020-05-22T05:00:02+08:00
+NWFB,680X,中環 (港澳碼頭),Central (Macau Ferry Pier),馬鞍山 (烏溪沙站),Ma On Shan (Wu Kai Sha Station),中环 (港澳码头),马鞍山 (乌溪沙站),2020-05-22T05:00:02+08:00
+NWFB,682,柴灣 (東),Chai Wan (East),馬鞍山 (烏溪沙站),Ma On Shan (Wu Kai Sha Station),柴湾 (东),马鞍山 (乌溪沙站),2020-05-22T05:00:02+08:00
+NWFB,682A,馬鞍山市中心,Ma On Shan Town Centre,柴灣 (東),Chai Wan (East),马鞍山市中心,柴湾 (东),2020-05-22T05:00:02+08:00
+NWFB,682B,水泉澳邨,Shui Chuen O Estate,柴灣 (東),Chai Wan (East),水泉澳邨,柴湾 (东),2020-05-22T05:00:02+08:00
+NWFB,682C,沙田第一城,City One Shatin,北角,North Point,沙田第一城,北角,2020-05-22T05:00:02+08:00
+NWFB,682D,碩門邨,Shek Mun Estate,柴灣 (東),Chai Wan (East),硕门邨,柴湾 (东),2020-05-22T05:00:02+08:00
+NWFB,682P,泥涌／烏溪沙站／利安邨,Nai Chung / Wu Kai Sha Station / Lee On Estate,柴灣 (東),Chai Wan (East),泥涌／乌溪沙站／利安邨,柴湾 (东),2020-05-22T05:00:02+08:00
+NWFB,682X,泥涌,Nai Chung,柴灣 (東),Chai Wan (East),泥涌,柴湾 (东),2020-05-22T05:00:02+08:00
+NWFB,694,小西灣邨,Siu Sai Wan Estate,調景嶺站,Tiu Keng Leng Station,小西湾邨,调景岭站,2020-05-22T05:00:02+08:00
+NWFB,701,海麗邨／南昌站,Hoi Lai Estate / Nam Cheong Station,旺角,Mong Kok,海丽邨／南昌站,旺角,2020-05-22T05:00:02+08:00
+NWFB,701A,海盈邨,Hoi Ying Estate,旺角,Mong Kok,海盈邨,旺角,2020-05-22T05:00:02+08:00
+NWFB,701R,香港體育館,Hong Kong Coliseum,蘇屋,So Uk,香港体育馆,苏屋,2020-05-22T05:00:02+08:00
+NWFB,701S,海麗邨／南昌站,Hoi Lai Estate / Nam Cheong Station,旺角,Mong Kok,海丽邨／南昌站,旺角,2020-05-22T05:00:02+08:00
+NWFB,702,海麗邨／南昌站,Hoi Lai Estate / Nam Cheong Station,九龍塘 (又一城),Kowloon Tong (Festival Walk),海丽邨／南昌站,九龙塘 (又一城),2020-05-22T05:00:02+08:00
+NWFB,702A,海麗邨,Hoi Lai Estate,白田邨,Pak Tin Estate,海丽邨,白田邨,2020-05-22T05:00:02+08:00
+NWFB,702S,蘇屋邨,So Uk Estate,長沙灣 (深盛路)／富昌邨,Cheung Sha Wan (Sham Shing Road) / Fu Cheong Estate,苏屋邨,长沙湾 (深盛路)／富昌邨,2020-05-22T05:00:02+08:00
+NWFB,720,嘉亨灣,Grand Promenade,中環 (港澳碼頭 / 機利文街),Central (Macau Ferry / Gilman Street),嘉亨湾,中环 (港澳码头 / 机利文街),2020-05-22T05:00:02+08:00
+NWFB,720A,嘉亨灣,Grand Promenade,金鐘 (政府總部),Admiralty (Central Government Office),嘉亨湾,金钟 (政府总部),2020-05-22T05:00:02+08:00
+NWFB,720P,太古城,Taikoo Shing,中環 (機利文街),Central (Gilman Street),太古城,中环 (机利文街),2020-05-22T05:00:02+08:00
+NWFB,720X,嘉亨灣,Grand Promenade,中環(林士街),Central (Rumsey Street),嘉亨湾,中环(林士街),2020-05-22T05:00:02+08:00
+NWFB,722,耀東邨,Yiu Tung Estate,中環碼頭,Central (Ferry Piers),耀东邨,中环码头,2020-05-22T05:00:02+08:00
+NWFB,78,黃竹坑,Wong Chuk Hang,華貴邨,Wah Kwai Estate,黄竹坑,华贵邨,2020-05-22T05:00:02+08:00
+NWFB,792M,將軍澳站,Tseung Kwan O Station,西貢,Sai Kung,将军澳站,西贡,2020-05-22T05:00:02+08:00
+NWFB,796C,清水灣半島,Oscar by the Sea,蘇屋,So Uk,清水湾半岛,苏屋,2020-05-22T05:00:02+08:00
+NWFB,796E,將軍澳工業邨,Tseung Kwan O Industrial Estate,蘇屋,So Uk,将军澳工业邨,苏屋,2020-05-22T05:00:02+08:00
+NWFB,796P,日出康城,Lohas Park,尖沙咀(東),Tsim Sha Tsui (East),日出康城,尖沙咀(东),2020-05-22T05:00:02+08:00
+NWFB,796R,香港體育館,Hong Kong Coliseum,日出康城,Lohas Park,香港体育馆,日出康城,2020-05-22T05:00:02+08:00
+NWFB,796S,將軍澳站,Tseung Kwan O Station,牛頭角站,Ngau Tau Kok Station,将军澳站,牛头角站,2020-05-22T05:00:02+08:00
+NWFB,796X,將軍澳工業邨／將軍澳站,Tseung Kwan O Industrial Estate / Tseung Kwan O Station,尖沙咀 (東),Tsim Sha Tsui (East),将军澳工业邨／将军澳站,尖沙咀 (东),2020-05-22T05:00:02+08:00
+NWFB,797M,將軍澳站,Tseung Kwan O Station,將軍澳工業邨,Tseung Kwan O Industrial Estate,将军澳站,将军澳工业邨,2020-05-22T05:00:02+08:00
+NWFB,798,調景嶺站,Tiu Keng Leng Station,火炭 (經沙田),Fo Tan (via Sha Tin),调景岭站,火炭 (经沙田),2020-05-22T05:00:02+08:00
+NWFB,798A,將軍澳 (康盛花園),Tseung Kwan O (Hong Sing Garden),沙田站,Sha Tin Station,将军澳 (康盛花园),沙田站,2020-05-22T05:00:02+08:00
+NWFB,798B,日出康城,Lohas Park,沙田站,Sha Tin Station,日出康城,沙田站,2020-05-22T05:00:02+08:00
+NWFB,8,杏花邨,Heng Fa Chuen,灣仔北,Wan Chai North,杏花邨,湾仔北,2020-05-22T05:00:02+08:00
+NWFB,81,興華邨,Hing Wah Estate,勵德邨,Lai Tak Tsuen,兴华邨,励德邨,2020-05-22T05:00:02+08:00
+NWFB,81A,興華邨,Hing Wah Estate,勵德邨,Lai Tak Tsuen,兴华邨,励德邨,2020-05-22T05:00:02+08:00
+NWFB,81S,小西灣 (富欣花園),Siu Sai Wan (Harmony Garden),寶馬山,Braemar Hill,小西湾 (富欣花园),宝马山,2020-05-22T05:00:02+08:00
+NWFB,82,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),北角碼頭,North Point Ferry Pier,小西湾 (蓝湾半岛),北角码头,2020-05-22T05:00:02+08:00
+NWFB,82M,柴灣站,Chai Wan Station,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),柴湾站,小西湾 (蓝湾半岛),2020-05-22T05:00:02+08:00
+NWFB,82S,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),耀東 (惠亨街),Yiu Tung (Wai Hang Street),小西湾 (蓝湾半岛),耀东 (惠亨街),2020-05-22T05:00:02+08:00
+NWFB,82X,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),鰂魚涌,Quarry Bay,小西湾 (蓝湾半岛),鲗鱼涌,2020-05-22T05:00:02+08:00
+NWFB,88X,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),堅尼地城 (卑路乍灣),Kennedy Town (Belcher Bay),小西湾 (蓝湾半岛),坚尼地城 (卑路乍湾),2020-05-22T05:00:02+08:00
+NWFB,8H,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),東華東院,Tung Wah Eastern Hospital,小西湾 (蓝湾半岛),东华东院,2020-05-22T05:00:02+08:00
+NWFB,8P,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),灣仔北,Wan Chai North,小西湾 (蓝湾半岛),湾仔北,2020-05-22T05:00:02+08:00
+NWFB,9,筲箕灣,Shau Kei Wan,石澳,Shek O,筲箕湾,石澳,2020-05-22T05:00:02+08:00
+NWFB,904,堅尼地城 (卑路乍灣),Kennedy Town (Belcher Bay),荔枝角,Lai Chi Kok,坚尼地城 (卑路乍湾),荔枝角,2020-05-22T05:00:02+08:00
+NWFB,905,灣仔北,Wan Chai North,荔枝角,Lai Chi Kok,湾仔北,荔枝角,2020-05-22T05:00:02+08:00
+NWFB,905A,灣仔北,Wan Chai North,荔枝角,Lai Chi Kok,湾仔北,荔枝角,2020-05-22T05:00:02+08:00
+NWFB,905P,荔枝角,Lai Chi Kok,灣仔 (港灣道),Wan Chai (Harbour Road),荔枝角,湾仔 (港湾道),2020-05-22T05:00:02+08:00
+NWFB,91,鴨脷洲邨,Ap Lei Chau Estate,中環碼頭,Central (Ferry Piers),鸭脷洲邨,中环码头,2020-05-22T05:00:02+08:00
+NWFB,914,天后站,Tin Hau Station,海麗邨,Hoi Lai Estate,天后站,海丽邨,2020-05-22T05:00:02+08:00
+NWFB,914P,海麗邨,Hoi Lai Estate,天后站,Tin Hau Station,海丽邨,天后站,2020-05-22T05:00:02+08:00
+NWFB,914X,海麗邨,Hoi Lai Estate,天后站,Tin Hau Station,海丽邨,天后站,2020-05-22T05:00:02+08:00
+NWFB,91A,鴨脷洲邨,Ap Lei Chau Estate,華富 (南),Wah Fu (South),鸭脷洲邨,华富 (南),2020-05-22T05:00:02+08:00
+NWFB,93,海怡半島 / 鴨脷洲邨,South Horizons / Ap Lei Chau Estate,羅便臣道,Robinson Road,海怡半岛 / 鸭脷洲邨,罗便臣道,2020-05-22T05:00:02+08:00
+NWFB,93A,利東邨,Lei Tung Estate,羅便臣道,Robinson Road,利东邨,罗便臣道,2020-05-22T05:00:02+08:00
+NWFB,94,利東邨,Lei Tung Estate,中環碼頭,Central (Ferry Piers),利东邨,中环码头,2020-05-22T05:00:02+08:00
+NWFB,948,青衣 (長安邨),Tsing Yi (Cheung On Estate),天后站,Tin Hau Station,青衣 (长安邨),天后站,2020-05-22T05:00:02+08:00
+NWFB,948A,長安邨,Cheung On Estate,天后站,Tin Hau Station,长安邨,天后站,2020-05-22T05:00:02+08:00
+NWFB,948B,青衣 (翠怡花園),Tsing Yi (Greenfield Garden),天后站,Tin Hau Station,青衣 (翠怡花园),天后站,2020-05-22T05:00:02+08:00
+NWFB,948P,長安邨,Cheung On Estate,天后站,Tin Hau Station,长安邨,天后站,2020-05-22T05:00:02+08:00
+NWFB,948X,長宏邨,Cheung Wang Estate,天后站,Tin Hau Station,长宏邨,天后站,2020-05-22T05:00:02+08:00
+NWFB,94A,華富 (中),Wah Fu (Central),利東邨,Lei Tung Estate,华富 (中),利东邨,2020-05-22T05:00:02+08:00
+NWFB,95,鴨脷洲邨 / 利南道工業區,Ap Lei Chau Estate / Lee Nam Road Industrial Area,香港仔 / 石排灣,Aberdeen / Shek Pai Wan,鸭脷洲邨 / 利南道工业区,香港仔 / 石排湾,2020-05-22T05:00:02+08:00
+NWFB,970,數碼港,Cyberport,蘇屋邨,So Uk Estate,数码港,苏屋邨,2020-05-22T05:00:02+08:00
+NWFB,970X,香港仔,Aberdeen,蘇屋邨,So Uk Estate,香港仔,苏屋邨,2020-05-22T05:00:02+08:00
+NWFB,971,香港仔 (石排灣),Aberdeen (Shek Pai Wan),海麗邨,Hoi Lai Estate,香港仔 (石排湾),海丽邨,2020-05-22T05:00:02+08:00
+NWFB,971R,數碼港 (經域多利道),Cyberport  (via Victoria Road),旺角,Mong Kok,数码港 (经域多利道),旺角,2020-05-22T05:00:02+08:00
+NWFB,980A,碩門邨,Shek Mun Estate,灣仔,Wan Chai,硕门邨,湾仔,2020-05-22T05:00:02+08:00
+NWFB,980X,馬鞍山 (烏溪沙站),Ma On Shan (Wu Kai Sha Station),灣仔,Wan Chai,马鞍山 (乌溪沙站),湾仔,2020-05-22T05:00:02+08:00
+NWFB,985,沙田 (美田邨),Shatin (Mei Tin Estate),銅鑼灣,Causeway Bay,沙田 (美田邨),铜锣湾,2020-05-22T05:00:02+08:00
+NWFB,985A,沙田 (美田邨),Shatin (Mei Tin Estate),銅鑼灣,Causeway Bay,沙田 (美田邨),铜锣湾,2020-05-22T05:00:02+08:00
+NWFB,985B,田心村,Tin Sam Village,銅鑼灣,Causeway Bay,田心村,铜锣湾,2020-05-22T05:00:02+08:00
+NWFB,9C,筲箕灣,Shau Kei Wan,歌連臣角,Cape Collinson,筲箕湾,歌连臣角,2020-05-22T05:00:02+08:00
+NWFB,9S,筲箕灣,Shau Kei Wan,石澳,Shek O,筲箕湾,石澳,2020-05-22T05:00:02+08:00
+NWFB,FE1,中環碼頭,Central (Ferry Piers),中環 (交易廣場),Central (Exchange Square),中环码头,中环 (交易广场),2020-05-22T05:00:02+08:00
+NWFB,H1,中環 (天星碼頭),Central (Star Ferry),尖沙咀,Tsim Sha Tsui,中环 (天星码头),尖沙咀,2020-05-22T05:00:02+08:00
+NWFB,H1A,中環 (天星碼頭),Central (Star Ferry),尖沙咀,Tsim Sha Tsui,中环 (天星码头),尖沙咀,2020-05-22T05:00:02+08:00
+NWFB,H2,中環 (天星碼頭),Central (Star Ferry),尖沙咀,Tsim Sha Tsui,中环 (天星码头),尖沙咀,2020-05-22T05:00:02+08:00
+NWFB,H2S,中環 (大會堂),Central (City Hall),旺角(洗衣街),Mongkok (Sai Yee Street),中环 (大会堂),旺角(洗衣街),2020-05-22T05:00:02+08:00
+NWFB,N106,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),黃大仙,Wong Tai Sin,小西湾 (蓝湾半岛),黄大仙,2020-05-22T05:00:02+08:00
+NWFB,N116,北角,North Point,慈雲山 (中),Tsz Wan Shan (Central),北角,慈云山 (中),2020-05-22T05:00:02+08:00
+NWFB,N121,中環 (港澳碼頭),Central (Macau Ferry),牛頭角,Ngau Tau Kok,中环 (港澳码头),牛头角,2020-05-22T05:00:02+08:00
+NWFB,N122,筲箕灣,Shau Kei Wan,美孚,Mei Foo,筲箕湾,美孚,2020-05-22T05:00:02+08:00
+NWFB,N601,金鐘 (東),Admiralty (East),寶達邨,Po Tat Estate,金钟 (东),宝达邨,2020-05-22T05:00:02+08:00
+NWFB,N680,中環 (港澳碼頭),Central (Macau Ferry),馬鞍山 (錦英苑),Ma On Shan (Kam Ying Court),中环 (港澳码头),马鞍山 (锦英苑),2020-05-22T05:00:02+08:00
+NWFB,N691,中環 (港澳碼頭),Central (Macau Ferry),調景嶺 (景嶺路),Tiu Keng Leng (King Ling Road),中环 (港澳码头),调景岭 (景岭路),2020-05-22T05:00:02+08:00
+NWFB,N796,日出康城／將軍澳站,Lohas Park / Tseung Kwan O Station,尖沙咀,Tsim Sha Tsui,日出康城／将军澳站,尖沙咀,2020-05-22T05:00:02+08:00
+NWFB,N8,灣仔北,Wan Chai North,杏花邨,Heng Fa Chuen,湾仔北,杏花邨,2020-05-22T05:00:02+08:00
+NWFB,N8P,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),灣仔 (港灣道),Wan Chai (Harbour Road),小西湾 (蓝湾半岛),湾仔 (港湾道),2020-05-22T05:00:02+08:00
+NWFB,R680,馬鞍山 (錦英苑),Ma On Shan (Kam Ying Court),銅鑼灣 (維多利亞公園),Causeway Bay (Victoria Park),马鞍山 (锦英苑),铜锣湾 (维多利亚公园),2020-05-22T05:00:02+08:00
+NWFB,X15,中環 (天星碼頭),Central (Star Ferry),山頂,The Peak,中环 (天星码头),山顶,2020-05-22T05:00:02+08:00
+NWFB,X797,調景嶺站,Tiu Keng Leng Station,消防及救護學院,Fire and Ambulance Services Academy,调景岭站,消防及救护学院,2020-05-22T05:00:02+08:00
+NWFB,X970,海怡半島,South Horizons,蘇屋邨,So Uk Estate,海怡半岛,苏屋邨,2020-05-22T05:00:02+08:00
